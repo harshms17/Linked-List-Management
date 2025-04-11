@@ -1,0 +1,6 @@
+12-4-2025	2:52:57	|	Linked List Created
+12-4-2025	2:53:0	|	2 Inserted at Head
+12-4-2025	2:53:13	|	1 Inserted at Head
+12-4-2025	2:53:30	|	1 Inserted at Head
+12-4-2025	2:53:59	|	Linked List Destroyed
+
